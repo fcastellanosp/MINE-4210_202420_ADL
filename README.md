@@ -1,6 +1,6 @@
 # MINE-4210_202420_ANALISIS_CON_DEEP_LEARNING
 
-Este repositorio está diseñado para la tutoría para Análisis en Deep Learning para la maestría en Ingeniería de Información para la Universidad de los Andes.
+Este repositorio está diseñado para la tutoría para Análisis con Deep Learning para la maestría en Ingeniería de Información para la Universidad de los Andes.
 
 La estructura del repositorio está compuesta por las siguientes 3 carpetas:
 
